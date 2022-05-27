@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jefferson Clinton B
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on networking
-- 📫 How to reach me jeffersonclintonbenny@gmail.com
+- iam passionate in cloud&coding
+- contact-jeffersonclintonbenny@gmail.com
+- 
 
 <!---
 JeffersonClintonB/JeffersonClintonB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
